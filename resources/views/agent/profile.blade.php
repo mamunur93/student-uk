@@ -333,40 +333,40 @@
                       <!-- /.user-block -->
                       <div class="row mb-3">
                         <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->passport}}" alt="passport">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->passport}}" alt="passport">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->cv}}" alt="cv">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->cv}}" alt="cv">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->ref1}}" alt="ref1">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->ref1}}" alt="ref1">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->ref2}}" alt="ref2">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->ref2}}" alt="ref2">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->ssccer}}" alt="ssccer">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->ssccer}}" alt="ssccer">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->ssctrans}}" alt="ssctrans">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->ssctrans}}" alt="ssctrans">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->hsccer}}" alt="hsccer">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->hsccer}}" alt="hsccer">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->hsctrns}}" alt="hsctrns">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->hsctrns}}" alt="hsctrns">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->sop}}" alt="sop">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->sop}}" alt="sop">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->sign}}" alt="sign">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->sign}}" alt="sign">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->photos}}" alt="Photo">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->photos}}" alt="Photo">
                         </div>
                          <div class="col-sm-6">
-                          <img class="img-fluid" src="{{asset('image')}}/{{$student->status}}" alt="status">
+                          <img class="img-fluid" src="{{asset('public/image')}}/{{$student->status}}" alt="status">
                         </div>
 
                         <!-- /.col -->
